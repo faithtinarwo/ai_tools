@@ -12,10 +12,10 @@ The assignment is structured into three main parts:
 
 ## Team Members
 
-* **[Your Name 1]** - [Your Role/Contributions]
-* **[Peer Name 2]** - [Peer's Role/Contributions]
-* **[Peer Name 3]** - [Peer's Role/Contributions]
-* *(Add more names as needed)*
+* **Faith Tinarwo** 
+* **Mpho Hlalele** 
+* **Steven Asumba]** 
+
 
 ---
 
